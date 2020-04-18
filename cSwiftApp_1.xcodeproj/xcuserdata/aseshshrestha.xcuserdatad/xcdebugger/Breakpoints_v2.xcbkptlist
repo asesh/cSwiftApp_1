@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F70D9F38-48B2-4E11-AAD3-1F2C766CC7A4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA2811F2-DF14-451C-BDCB-72A34BA9C406"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "deinit"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D34B84DC-FC85-4458-AE9F-DB75F18878F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/backend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "deinit"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AD3C98E-357B-4A33-B91B-3D2AACB89B7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/backend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "deinit"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11BB0789-79B0-427C-8DFE-BE740A0018B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "CFoo2"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "11BB0789-79B0-427C-8DFE-BE740A0018B8 - 5e27e9bd0a017fcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.CFoo2.wrapper_value.getter : Swift.Int"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "11BB0789-79B0-427C-8DFE-BE740A0018B8 - 8ebfacac209223f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.CFoo2.wrapper_value.setter : Swift.Int"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "11BB0789-79B0-427C-8DFE-BE740A0018B8 - 80b05837d8852c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.CFoo2.wrapper_value.modify : Swift.Int"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "11BB0789-79B0-427C-8DFE-BE740A0018B8 - 34c274d96d8c04f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.CFoo2.wrapper_value.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE9AAAFA-33A8-4271-8D3F-F83EE9EF0BD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "259"
+            endingLineNumber = "259"
+            landmarkName = "foo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4106D889-52F8-4E2E-8B3B-329B72ACAE93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "CFoo2"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50F53ECE-363B-4F0D-B16D-FA9584D664F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "253"
+            endingLineNumber = "253"
+            landmarkName = "CFoo2"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFA66571-BABC-4C6C-8280-23E621929C8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9196DCFE-F3A5-41DA-A28B-DDFCF0A51CB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cSwiftApp_1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "test_as()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9196DCFE-F3A5-41DA-A28B-DDFCF0A51CB9 - fb13f471c957c538"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.test_as() -&gt; ()"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "9196DCFE-F3A5-41DA-A28B-DDFCF0A51CB9 - fb13f471c957c538"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.test_as() -&gt; ()"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "9196DCFE-F3A5-41DA-A28B-DDFCF0A51CB9 - fb13f471c957c538"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.test_as() -&gt; ()"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "882">
+               </Location>
+               <Location
+                  uuid = "9196DCFE-F3A5-41DA-A28B-DDFCF0A51CB9 - fb13f471c957c538"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.test_as() -&gt; ()"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "1202">
+               </Location>
+               <Location
+                  uuid = "9196DCFE-F3A5-41DA-A28B-DDFCF0A51CB9 - fb13f471c957c538"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cSwiftApp_1.test_as() -&gt; ()"
+                  moduleName = "cSwiftApp_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aseshshrestha/Code/XCode%20Projects/cSwiftApp_1/cSwiftApp_1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "1514">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
